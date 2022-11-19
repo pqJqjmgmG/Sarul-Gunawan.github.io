@@ -1,0 +1,23 @@
+section {
+  padding-top: 7rem;
+}
+
+.jumbotron {
+  background-color: rgb(29, 221, 203);
+  background: linear-gradient(90deg, rgba(29, 221, 203) 0%, rgba(34, 116, 160) 100%);
+}
+
+span {
+  color: #1dddcb;
+}
+
+footer {
+  background-color: #fff;
+  padding-top: 55rem;
+  padding: 44px;
+  text-align: center;
+}
+
+footer small {
+  color: black;
+}
